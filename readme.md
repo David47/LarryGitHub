@@ -2,7 +2,8 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-Git lover
-**David Marcos**
+=======
+>>>>>>> 00s
+**David Marcos** Git lover & Larry Plotter fan
 
 
